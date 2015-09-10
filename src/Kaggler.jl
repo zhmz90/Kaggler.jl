@@ -1,5 +1,31 @@
 module Kaggler
 
-# package code goes here
 
-end # module
+
+include("common/common.jl"); reexport dim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end
